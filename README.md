@@ -388,6 +388,8 @@ global pretty-printers:
 
 Anyone can contribute to `grout`. See [`CONTRIBUTING.md`](/CONTRIBUTING.md).
 
+Contributing here as dummy change for CI testing.
+
 ## Dependencies
 
 | Name | Type | License | Code |
