@@ -103,7 +103,7 @@ jobs:
           dnf --enablerepo=crb install -y --nodocs --setopt=install_weak_deps=0 \
             autoconf \
             automake \
-            bison \
+            bisonfailure \
             ccache \
             elfutils-libelf-devel \
             flex \
